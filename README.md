@@ -2,7 +2,7 @@
 
 🎖[AWS AL&ML Tools Summary](https://medium.com/@WenxinZhang98/aws-ml-al-bigdata-8d1f4306d8cf)
 
-🎖[Week1: Explorethe Use Case and Analyze the Dataset]()
+🎖[Week1: Explorethe Use Case and Analyze the Dataset](https://github.com/wendyZhang98/Analyze-Datasets-and-Train-ML-Models-using-AutoML/blob/main/C1_W1.pdf)
 
 🎖Additional Reading Material of Week1:
 - [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler): Pandas on AWS
