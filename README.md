@@ -16,4 +16,4 @@
 2) Tensorflow on AWS: open-source machine intelligence library
 3) PyTorch on AWS: open-source machine learning framework
 
-🎖[Week2: Statistical Bias & Feature Importance]()
+🎖[Week2: Statistical Bias & Feature Importance](https://github.com/wendyZhang98/Analyze-Datasets-and-Train-ML-Models-using-AutoML/blob/main/C1_W2.pdf)
