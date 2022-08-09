@@ -24,3 +24,5 @@
 - [Measure Pretraining Bias - Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-measure-data-bias.html)
 
 - [SHAP](https://shap.readthedocs.io/en/latest/)
+
+🎖[Week3: Automated Machine Learning (AutoML)](https://github.com/wendyZhang98/Analyze-Datasets-and-Train-ML-Models-using-AutoML/blob/main/C1_W3.pdf)
