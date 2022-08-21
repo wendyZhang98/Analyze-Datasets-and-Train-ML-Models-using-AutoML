@@ -26,3 +26,5 @@
 - [SHAP](https://shap.readthedocs.io/en/latest/)
 
 🎖[Week3: Automated Machine Learning (AutoML)](https://github.com/wendyZhang98/Analyze-Datasets-and-Train-ML-Models-using-AutoML/blob/main/C1_W3.pdf)
+
+- [Autopilot](https://aws.amazon.com/sagemaker/autopilot/)
