@@ -77,5 +77,11 @@ In this assignment, you will train a text classification model using Amazon Sage
 - [Built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Amazon SageMaker BlazingText](https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html) 
 
+### 🎖Assignment of Week4: Train a text classifier using Amazon SageMaker BlazingText built-in algorithm
 
+In this assignment you will train a text classifier using Amazon SageMaker BlazingText built-in algorithm. 
 
+- Prepare dataset
+- Train the model with Amazon SageMaker BlazingText
+- Deploy the model
+- Test the model
