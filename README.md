@@ -61,3 +61,21 @@ In this assignment, you will train a text classification model using Amazon Sage
 - Model training and tuning
 - Review all output
 - Deploy and test best candidate model
+
+# [Week4: Built-in Algorithms](https://github.com/wendyZhang98/Analyze-Datasets-and-Train-ML-Models-using-AutoML/blob/main/C1_W4.pdf)
+
+### 🎖Additional Reading Mateiral of Week3:
+
+- [Word2Vec algorithm](https://arxiv.org/pdf/1301.3781.pdf)
+- [GloVe algorithm](https://aclanthology.org/D14-1162.pdf)
+- [FastText algorithm](https://arxiv.org/pdf/1607.04606v2.pdf)
+- [Transformer architecture, "Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
+- [BlazingText algorithm](https://dl.acm.org/doi/pdf/10.1145/3146347.3146354)
+- [ELMo algorithm](https://arxiv.org/pdf/1802.05365v2.pdf)
+- [GPT model architecture](https://cdn.openai.com/research-covers/language-unsupervised/language_un)
+- [BERT model architecture](https://arxiv.org/abs/1810.04805)
+- [Built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Amazon SageMaker BlazingText](https://docs.aws.amazon.com/sagemaker/latest/dg/blazingtext.html) 
+
+
+
