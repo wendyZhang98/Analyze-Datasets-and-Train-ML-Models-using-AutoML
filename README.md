@@ -1,8 +1,7 @@
 # 🧠 Analyze Datasets & Train ML Models using AutoML
 
 ## 📋 Summary
-In this course, I learned how to analyze datasets, detect bias, and train machine learning models using various AWS services.  
-Key takeaways include:
+In this course, I learned how to analyze datasets, detect bias, and train machine learning models using various AWS services. Key takeaways include:
 - Exploring datasets stored on Amazon S3 using **AWS Glue**, **Athena**, and **Data Wrangler**
 - Detecting and mitigating statistical bias using **Amazon SageMaker Clarify**
 - Automating machine learning workflows with **SageMaker Autopilot**
